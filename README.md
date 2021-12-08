@@ -1,7 +1,7 @@
 
 # ¡Hola!👋 Me llamo *Luis Fernando Lamiral Benitez* y te doy la bienvenida a mi repositorio.
 
-> ## Acerca de **mí** 👤
+> # Acerca de **mí** 👤
 ~
 
 > ## Mis conocimientos
