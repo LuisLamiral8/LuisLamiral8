@@ -8,7 +8,7 @@ Aprendí a desarrollar páginas por cuenta propia, buscando siempre la informaci
 
 Actualmente estoy trabajando en aprender ReactJS, siempre esforzándome en aprender más del mundo Front-End
 
-## � Mis conocimientos:
+## 🎓 Mis conocimientos:
 - HTML5
 - CSS
 - SCSS - SASS
