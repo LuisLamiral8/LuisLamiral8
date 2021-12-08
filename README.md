@@ -11,10 +11,10 @@ Actualmente estoy trabajando en aprender ReactJS, siempre esforzándome en apren
 ## � Mis conocimientos:
 - HTML5
 - CSS
-- SCSS
-- GIT - GITHUB
+- SCSS - SASS
 - JavaScript
 - Manejo de API con JS
+- GIT - GITHUB
 - Arduino
 
 ## ✅ Mis Proyectos:
