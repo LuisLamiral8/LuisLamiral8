@@ -1,22 +1,27 @@
 
-# ¡Hola!👋 Me llamo *Luis Fernando Lamiral Benitez* y te doy la bienvenida a mi repositorio.
+# ¡Hola!👋 Me llamo *Luis Lamiral* y te doy la bienvenida a mi repositorio.
 
-> # Acerca de **mí** 👤
-~
+## Acerca de **mí persona** 👤
+Tengo 17 años y vivo en Argentina, Buenos Aires. Estuve muy interesado en la tecnología desde muy pequeño y empecé a dedicarme al desarrollo desde los 16 años, actualmente soy Desarrollador web Front-End, estoy terminando la secundaria y voy a seguir Ingenieria en Sistemas.
 
-> ## Mis conocimientos
+Aprendí a desarrollar páginas por cuenta propia, buscando siempre la información que necesitaba, y por esto me renombro autodidacta, además soy una persona que siempre intenta avanzar en conocimientos y aprender nuevas tecnologías
+
+Actualmente estoy trabajando en aprender ReactJS, siempre esforzándome en aprender más del mundo Front-End
+
+## � Mis conocimientos:
 - HTML5
 - CSS
 - SCSS
 - GIT - GITHUB
 - JavaScript
 - Manejo de API con JS
+- Arduino
 
-> ## Mis Proyectos
+## ✅ Mis Proyectos:
 - [PokeAPI](https://github.com/LuisLamiral8/pokeApi)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
 
-> ## Medios de contacto
+## 📩 Medios de contacto:
 - luislamiraal@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luis-lamiral/)
 
