@@ -1,10 +1,10 @@
 
-# ¡Hola! Me llamo *Luis Fernando Lamiral Benitez* y te doy la bienvenida a mi repositorio.
+# ¡Hola!👋 Me llamo *Luis Fernando Lamiral Benitez* y te doy la bienvenida a mi repositorio.
 
->Acerca de **mí** || About **me**
+> ## Acerca de **mí** 👤
 ~
 
->Mis conocimientos
+> ## Mis conocimientos
 - HTML5
 - CSS
 - SCSS
@@ -12,11 +12,11 @@
 - JavaScript
 - Manejo de API con JS
 
->Mis Proyectos
+> ## Mis Proyectos
 - [PokeAPI](https://github.com/LuisLamiral8/pokeApi)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
 
->Medios de contacto
+> ## Medios de contacto
 - luislamiraal@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luis-lamiral/)
 
