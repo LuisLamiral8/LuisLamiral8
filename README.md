@@ -1,5 +1,5 @@
 
-# ¡Hola!👋 Me llamo *Luis Lamiral* y te doy la bienvenida a mi repositorio.
+# ¡Hola Me llamo *Luis Lamiral* y te doy la bienvenida a mi repositorio.
 
 ## Acerca de **mí persona** 👤
 Tengo 17 años y vivo en Argentina, Buenos Aires. Estuve muy interesado en la tecnología desde muy pequeño y empecé a dedicarme al desarrollo desde los 16 años, actualmente soy Desarrollador web Front-End, estoy terminando la secundaria y voy a seguir Ingenieria en Sistemas.
