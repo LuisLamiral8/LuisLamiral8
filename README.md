@@ -6,13 +6,14 @@ Tengo 17 años y vivo en Argentina, Buenos Aires. Estuve muy interesado en la te
 
 Aprendí a desarrollar páginas por cuenta propia, buscando siempre la información que necesitaba, y por esto me renombro autodidacta, además soy una persona que siempre intenta avanzar en conocimientos y aprender nuevas tecnologías
 
-Actualmente estoy trabajando en aprender ReactJS, siempre esforzándome en aprender más del mundo Front-End
-
 ## 🎓 Mis conocimientos:
 - HTML5
 - CSS
 - SCSS - SASS
 - JavaScript
+- ReactJS
+- NodeJS
+- Web3
 - Manejo de API con JS
 - GIT - GITHUB
 - Arduino
