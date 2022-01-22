@@ -1,10 +1,8 @@
 
-# Hola, Me llamo *Luis Lamiral* y te doy la bienvenida a mi repositorio.
+# Soy *Luis Lamiral* y te doy la bienvenida a mi repositorio.
 
 ## Acerca de mí
-Tengo 17 años y vivo en Argentina, Buenos Aires. Estuve muy interesado en la tecnología desde chico y empecé a dedicarme al desarrollo desde los 16 años, actualmente soy Desarrollador web Front-End, estoy terminando la secundaria y voy a seguir Ingenieria en Sistemas.
-
-Aprendí a desarrollar páginas por cuenta propia, por esto me renombro autodidacta, además soy una persona que siempre intenta avanzar en conocimientos y aprender nuevas tecnologías
+Tengo 17 años y vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde los 16 años, actualmente soy Desarrollador web Front-End, estoy estoy terminando la secundaria
 
 ## 🎓 Mis conocimientos:
 - HTML5
@@ -13,11 +11,9 @@ Aprendí a desarrollar páginas por cuenta propia, por esto me renombro autodida
 - JavaScript
 - ReactJS
 - NodeJS
-- Web3
 - Manejo de API con JS
 - GIT - GITHUB
-- Arduino
-
+- 
 ## ✅ Mis Proyectos:
 - [PokeAPI](https://github.com/LuisLamiral8/pokeApi)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
