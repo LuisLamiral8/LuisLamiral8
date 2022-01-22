@@ -13,7 +13,7 @@ Tengo 17 años y vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarro
 - NodeJS
 - Manejo de API con JS
 - GIT - GITHUB
-- 
+
 ## ✅ Mis Proyectos:
 - [PokeAPI](https://github.com/LuisLamiral8/pokeApi)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
