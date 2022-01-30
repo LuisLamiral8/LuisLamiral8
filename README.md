@@ -22,6 +22,7 @@ Tengo 17 años y vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarro
 ## 📩 Medios de contacto:
 - luislamiraal@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luis-lamiral/)
+- [Freelancer](https://www.freelancer.es/u/LuisLamiral)
 
 
 
