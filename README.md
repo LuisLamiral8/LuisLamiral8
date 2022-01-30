@@ -17,6 +17,7 @@ Tengo 17 años y vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarro
 ## ✅ Mis Proyectos:
 - [PokeAPI](https://github.com/LuisLamiral8/pokeApi)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
+- [Rocketpad](https://github.com/LuisLamiral8/rocketpadd-app)
 
 ## 📩 Medios de contacto:
 - luislamiraal@gmail.com
