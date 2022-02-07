@@ -10,6 +10,7 @@ Tengo 17 años y vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarro
 - SCSS - SASS
 - JavaScript
 - ReactJS
+- NextJS
 - NodeJS
 - Manejo de API con JS
 - GIT - GITHUB
