@@ -2,7 +2,7 @@
 # Soy *Luis Lamiral* y te doy la bienvenida a mi repositorio.
 
 ## Acerca de mí
-Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, actualmente soy Desarrollador web Front-End, estoy estoy terminando la secundaria
+Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, actualmente soy Desarrollador web Front-End, y estoy terminando la secundaria
 
 ## 🎓 Mis conocimientos:
 - HTML5
