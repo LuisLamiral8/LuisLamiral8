@@ -2,7 +2,7 @@
 # Soy *Luis Lamiral* y te doy la bienvenida a mi repositorio.
 
 ## Acerca de mí
-Tengo 17 años y vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde los 16 años, actualmente soy Desarrollador web Front-End, estoy estoy terminando la secundaria
+Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde los 16 años, actualmente soy Desarrollador web Front-End, estoy estoy terminando la secundaria
 
 ## 🎓 Mis conocimientos:
 - HTML5
