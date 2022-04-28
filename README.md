@@ -17,12 +17,12 @@ Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, a
 
 ## ✅ Mis Proyectos:
 - [My Portfolio](https://github.com/LuisLamiral8/my-portfolio)
-- [PokeAPI](https://github.com/LuisLamiral8/pokeApi)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
-- [E.E.S.T.N°8 NoHTML](https://github.com/LuisLamiral8/webAlmafuerte-noHTML)
 - [Rocketpad](https://github.com/LuisLamiral8/rocketpad-app)
 - [Suplotopia](https://github.com/elianpaludi/suplotopia)
 - [Enterprise](https://github.com/elianpaludi/enterprise)
+- [Digitalcur](https://github.com/LuisLamiral8/digitalcur)
+- [Lastfrontier](https://github.com/LuisLamiral8/lastfrontier)
 
 ## 📩 Medios de contacto:
 - luislamiraal@gmail.com
