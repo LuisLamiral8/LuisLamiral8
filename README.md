@@ -20,8 +20,7 @@ Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, a
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
 - [Rocketpad](https://github.com/LuisLamiral8/rocketpad-app)
 - [Suplotopia](https://github.com/elianpaludi/suplotopia)
-- [Enterprise](https://github.com/elianpaludi/enterprise)
-- [Digitalcur](https://github.com/LuisLamiral8/digitalcur)
+- [Digitalcur](https://github.com/LuisLamiral8/digitalcur) No terminado
 - [Lastfrontier](https://github.com/LuisLamiral8/lastfrontier)
 
 ## 📩 Medios de contacto:
