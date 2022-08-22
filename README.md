@@ -1,10 +1,10 @@
 
 # Soy *Luis Lamiral* y te doy la bienvenida a mi repositorio.
 
-## Acerca de mí
-Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, actualmente soy Desarrollador web Front-End, y estoy terminando la secundaria
+## About me
+Soy de Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, actualmente soy Desarrollador web Front-End
 
-## 🎓 Mis conocimientos:
+## 🎓 Skills:
 - HTML5
 - CSS
 - SCSS - SASS
@@ -15,13 +15,13 @@ Vivo en Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, a
 - Manejo de API con JS
 - GIT - GITHUB
 
-## ✅ Mis Proyectos:
+## ✅ Projects:
 - [My Portfolio](https://github.com/LuisLamiral8/my-portfolio)
 - [E.E.S.T.N°8](https://github.com/LuisLamiral8/webAlmafuerte)
 - [Rocketpad](https://github.com/LuisLamiral8/rocketpad-app)
 - [Lastfrontier](https://github.com/LuisLamiral8/lastfrontier)
 
-## 📩 Medios de contacto:
+## 📩 Contact:
 - luislamiraal@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luis-lamiral/)
 - [Freelancer](https://www.freelancer.es/u/LuisLamiral)
