@@ -14,6 +14,8 @@ Soy de Argentina, Buenos Aires. Empecé a dedicarme al desarrollo desde 2019, ac
 - NodeJS
 - Manejo de API con JS
 - GIT - GITHUB
+- NodeJS - ExpressJS
+- Java SpringBoot
 
 ## ✅ Projects:
 - [My Portfolio](https://github.com/LuisLamiral8/my-portfolio)
